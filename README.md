@@ -1,4 +1,4 @@
-## Welcome to Number Guessing geme!
+## Welcome to Number Guessing game!
 
 You have 3 attempts to guess a randomly generated number between 1 and 10.
 
